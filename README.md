@@ -17,6 +17,13 @@ During the project's development I chose the <strong>C language</strong>, as I w
  - [Click to test the project](https://replit.com/@KarenKnup/Multifunctional-Calculator) **[ENGLISH]**
 <br>
 
+<h2>:gear: Files</h2>
+
+**`main.c :`** Main function<br><br>
+**`calculadora.c :`** This is where the "calculator.h" functions are developed <br><br>
+**`calculadora.h :`** This is where the prototypes of the functions are, where the user calls the functions as in any library, that is, he uses the functions but does not need to know the process
+<br>
+
  <h2>:pencil: Functionalities</h2>
  
  Option | Functionality 
