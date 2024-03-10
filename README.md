@@ -21,6 +21,31 @@ During the project's development I chose the <strong>C language</strong>, as I w
  
  Option | Functionality 
 ---- | --------- 
-**`+`** | x
-**`-`** | x
-**`*`** | x iii
+**`+`** | Sum of sequence numbers
+**`-`** | Subtracting a sequence of numbers
+**`*`** | x 
+**`/`** | x 
+**`^`** | x 
+**`r`** | x 
+**`a`** | x 
+**`t`** | x 
+**`o`** | x 
+**`d`** | x 
+**`s`** | x 
+**`p`** | x 
+**`u`** | x 
+**`n`** | x 
+**`i`** | x 
+**`x`** | x 
+**`j`** | x 
+**`f`** | x 
+**`q`** | x 
+**`4`** | x 
+**`5`** | x 
+**`2`** | x 
+**`3`** | x 
+**`1`** | x 
+**`6`** | x 
+**`c`** | x 
+
+
