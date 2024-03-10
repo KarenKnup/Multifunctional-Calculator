@@ -56,4 +56,13 @@ During the project's development I chose the <strong>C language</strong>, as I w
 **`6`** | x 
 **`c`** | x 
 
+<br>
 
+<h2>:warning: Restrictions</h2>
+
+Option | Functionality 
+---- | --------- 
+**`+`** | The sum function doesn't work with fractions at the moment
+**`-`** | The subtraction function doesn't work with fractions at the moment
+**`/`** | The division function doesn't work with fractions at the moment
+**`^`** | The power function doesn't work with fractions at the moment
