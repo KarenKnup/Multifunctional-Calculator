@@ -21,7 +21,7 @@ During the project's development I chose the <strong>C language</strong>, as I w
 
 **`main.c :`** Main function<br><br>
 **`calculadora.h :`** This is where the prototypes of the functions are, where the user calls the functions as in any library, that is, he uses the functions but does not need to know the process <br><br>
-**`calculadora.c :`** This is where the "calculator.h" functions are developed
+**`calculadora.c :`** This is where the "calculadora.h" functions are developed
 
 <br>
 
