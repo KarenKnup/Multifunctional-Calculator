@@ -35,7 +35,7 @@ During the project's development I chose the <strong>C language</strong>, as I w
 **`/`** | Division of a sequence of numbers
 **`^`** | Power of a number
 **`r`** | Root of a number
-**`a`** | x 
+**`a`** | Certain percentage of a number
 **`t`** | x 
 **`o`** | x 
 **`d`** | x 
