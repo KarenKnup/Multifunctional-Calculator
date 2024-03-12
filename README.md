@@ -29,7 +29,7 @@ During the project's development I chose the <strong>C language</strong>, as I w
  
  Option | Functionality 
 ---- | --------- 
-**`+`** | Sum of sequence numbers
+**`+`** | Sum of a sequence of numbers
 **`-`** | Subtracting a sequence of numbers
 **`*`** | Multiplication of a sequence of numbers
 **`/`** | Division of a sequence of numbers
