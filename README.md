@@ -34,7 +34,7 @@ During the project's development I chose the <strong>C language</strong>, as I w
 **`*`** | Multiplication of a sequence of numbers
 **`/`** | Division of a sequence of numbers
 **`^`** | Power of a number
-**`r`** | Square root of a number
+**`r`** | Root of a number
 **`a`** | x 
 **`t`** | x 
 **`o`** | x 
