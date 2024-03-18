@@ -36,7 +36,7 @@ During the project's development I chose the <strong>C language</strong>, as I w
 **`^`** | Power of a number
 **`r`** | Root of a number
 **`a`** | Certain percentage of a number
-**`t`** | x 
+**`t`** | Multiplication table of a number
 **`o`** | x 
 **`d`** | x 
 **`s`** | x 
@@ -46,7 +46,7 @@ During the project's development I chose the <strong>C language</strong>, as I w
 **`i`** | x 
 **`x`** | x 
 **`j`** | x 
-**`f`** | x 
+**`f`** | Factorial of a number
 **`q`** | x 
 **`4`** | x 
 **`5`** | x 
