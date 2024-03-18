@@ -39,20 +39,20 @@ During the project's development I chose the <strong>C language</strong>, as I w
 **`t`** | Multiplication table of a number
 **`o`** | x 
 **`d`** | x 
-**`s`** | x 
-**`p`** | x 
-**`u`** | x 
-**`n`** | x 
+**`s`** | Sum of matrices
+**`p`** | Opposite matrix
+**`u`** | Subtraction of matrices
+**`n`** | Product of a number by a matrix
 **`i`** | x 
 **`x`** | x 
 **`j`** | x 
 **`f`** | Factorial of a number
 **`q`** | x 
-**`4`** | x 
-**`5`** | x 
-**`2`** | x 
+**`4`** | Arithmetic average
+**`5`** | Weighted arithmetic average
+**`2`** | x
 **`3`** | x 
-**`1`** | x 
+**`1`** | Variance
 **`6`** | x 
 **`c`** | x 
 
