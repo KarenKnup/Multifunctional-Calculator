@@ -47,11 +47,9 @@ During the project's development I chose the <strong>C language</strong>, as I w
 **`x`** | Determinant of a matrix
 **`j`** | Inverse matrix
 **`f`** | Factorial of a number
-**`q`** | x 
+**`q`** | Frequency of a sequence of numbers
 **`4`** | Arithmetic average
 **`5`** | Weighted arithmetic average
-**`2`** | x
-**`3`** | x 
 **`1`** | Variance
 **`6`** | x 
 **`c`** | x 
@@ -67,3 +65,4 @@ Option | Functionality
 **`/`** | The division function does not work with fractions at the moment
 **`^`** | The power function does not work with fractions at the moment
 **`x`** | The determinant is restricted to functioning up to order 3
+**`q`** | The frequency calculation currently does not work with intervals
