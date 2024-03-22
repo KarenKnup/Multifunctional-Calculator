@@ -37,15 +37,15 @@ During the project's development I chose the <strong>C language</strong>, as I w
 **`r`** | Root of a number
 **`a`** | Certain percentage of a number
 **`t`** | Multiplication table of a number
-**`o`** | x 
-**`d`** | x 
+**`o`** | Remainder of a division 
+**`d`** | Find divisor of a number
 **`s`** | Sum of matrices
 **`p`** | Opposite matrix
 **`u`** | Subtraction of matrices
 **`n`** | Product of a number by a matrix
-**`i`** | x 
-**`x`** | x 
-**`j`** | x 
+**`i`** | Multiplication of matrices 
+**`x`** | Determinant of a matrix
+**`j`** | Inverse matrix
 **`f`** | Factorial of a number
 **`q`** | x 
 **`4`** | Arithmetic average
@@ -66,3 +66,4 @@ Option | Functionality
 **`-`** | The subtraction function does not work with fractions at the moment
 **`/`** | The division function does not work with fractions at the moment
 **`^`** | The power function does not work with fractions at the moment
+**`x`** | The determinant is restricted to functioning up to order 3
