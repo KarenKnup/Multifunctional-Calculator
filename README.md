@@ -50,8 +50,7 @@ During the project's development I chose the <strong>C language</strong>, as I w
 **`q`** | Frequency of a sequence of numbers
 **`4`** | Arithmetic average
 **`5`** | Weighted arithmetic average
-**`1`** | Variance
-**`6`** | Standard Deviation
+**`1`** | Variance and Standard Deviation
 **`c`** | x 
 
 <br>
