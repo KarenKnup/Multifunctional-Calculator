@@ -65,3 +65,4 @@ Option | Functionality
 **`^`** | The power function does not work with fractions at the moment
 **`x`** | The determinant is restricted to functioning up to order 3
 **`q`** | The frequency calculation currently does not work with intervals
+**`1`** | You must have the sequence of numbers and the mean of this sequence to calculate the Variance and the Standard Deviation
