@@ -51,7 +51,7 @@ During the project's development I chose the <strong>C language</strong>, as I w
 **`4`** | Arithmetic average
 **`5`** | Weighted arithmetic average
 **`1`** | Variance
-**`6`** | x 
+**`6`** | Standard Deviation
 **`c`** | x 
 
 <br>
